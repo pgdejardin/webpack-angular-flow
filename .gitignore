@@ -1,0 +1,9 @@
+# node, bower, dist
+node_modules
+bower_components
+dist
+build
+
+# intelliJ files
+*.iml
+.idea
